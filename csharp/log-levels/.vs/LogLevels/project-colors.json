@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c28631a-550f-42e7-b6f3-9072a37b53a8": {
+      "ProjectGuid": "0c28631a-550f-42e7-b6f3-9072a37b53a8",
+      "DisplayName": "LogLevels",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
